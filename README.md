@@ -10,10 +10,6 @@ O **WellWork** é uma plataforma inovadora desenvolvida para promover o bem-esta
 
 ✅ **Concluído e Pronto para Produção**
 
-- Versão: 6.0 (Final)
-- Data: Novembro de 2025
-- Status: Em produção
-
 ---
 
 ## 📑 Sumário
@@ -98,28 +94,23 @@ O WellWork oferece:
 
 1. **Clone o repositório**
 ```bash
-git clone https://github.com/SEU_USUARIO/wellwork.git
-cd wellwork
+git clone https://github.com/Benitez561792/WellWork-Front.git
+cd WellWork-Front
 ```
 
 2. **Instale as dependências**
 ```bash
 npm install
-# ou
-pnpm install
 ```
 
 3. **Configure as variáveis de ambiente**
 ```bash
-# Crie um arquivo .env na raiz do projeto
 VITE_API_JAVA_URL=https://java-wellwork.onrender.com/api
 ```
 
 4. **Inicie o servidor de desenvolvimento**
 ```bash
 npm run dev
-# ou
-pnpm dev
 ```
 
 5. **Acesse a aplicação**
@@ -134,7 +125,7 @@ http://localhost:5173
 ### Acesso Online
 
 Acesse a aplicação em produção:
-**URL:** [https://wellwork.vercel.app](https://wellwork.vercel.app)
+**URL:** [https://wellwork-black.vercel.app/](https://wellwork-black.vercel.app/)
 
 ### Fluxo de Uso
 
@@ -241,7 +232,7 @@ wellwork/
 
 ### Endpoints da API Java
 
-**Base URL:** `https://java-wellwork.onrender.com`
+**Base URL:** `https://java-wellwork.onrender.com` / 'https://java-wellwork.onrender.com/usuarios'
 
 | Método | Endpoint | Descrição |
 |--------|----------|-----------|
@@ -284,18 +275,11 @@ wellwork/
 ### Vídeo de Demonstração
 
 🎥 **Vídeo de demonstração**
+[https://youtu.be/zPh-Owt1h9Y](https://youtu.be/zPh-Owt1h9Y)
 
-⚠️ **IMPORTANTE:** O link do vídeo deve ser adicionado aqui após a gravação e upload no YouTube.
 
-**Formato esperado:**
-```
-🎥 [Assista ao vídeo de demonstração no YouTube](https://www.youtube.com/watch?v=SEU_VIDEO_ID)
-```
 
-**Requisitos:**
-- Vídeo de no máximo 3 minutos
-- Hospedado no YouTube
-- Link funcional no formato acima
+
 
 ### Screenshots
 
@@ -337,11 +321,11 @@ Este projeto foi desenvolvido para fins acadêmicos como parte da Global Solutio
 
 ## 🔗 Links Importantes
 
-- **Repositório GitHub:** [https://github.com/Benitez561792/wellwork](https://github.com/Benitez561792/wellwork)
-- **Aplicação em Produção:** [https://wellwork.vercel.app](https://wellwork.vercel.app)
-- **Vídeo de Demonstração:** _(Em produção)_
+- **Repositório GitHub:** [https://github.com/Benitez561792/WellWork-Front.git](https://github.com/Benitez561792/WellWork-Front.gitk)
+- **Aplicação em Produção:** [https://wellwork-black.vercel.app/](https://wellwork-black.vercel.app/)
+- **Vídeo de Demonstração:** [https://youtu.be/zPh-Owt1h9Y](https://youtu.be/zPh-Owt1h9Y)
 - **API Java:** [https://java-wellwork.onrender.com](https://java-wellwork.onrender.com)
 
 ---
 
-**Desenvolvido com ❤️ pela equipe WellWork - FIAP 2025**
+
